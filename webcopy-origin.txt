@@ -1,0 +1,64 @@
+Uri: https://cdn.ampproject.org/v0.js
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\v0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-accordion-0.1.js
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\v0\amp-accordion-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-iframe-0.1.js
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\v0\amp-iframe-0.1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://www.bausedtruckandtrailer.com/
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\index.htm
+Content Type: text/html
+
+Uri: https://www.bausedtruckandtrailer.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.bausedtruckandtrailer.com/logo192.png
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\logo192.png
+Content Type: image/png
+
+Uri: https://www.bausedtruckandtrailer.com/manifest.json
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.bausedtruckandtrailer.com/static/css/2.ad5db7ce.chunk.css
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\static\css\2.ad5db7ce.chunk.css
+Content Type: text/css
+
+Uri: https://www.bausedtruckandtrailer.com/static/css/main.04a8932f.chunk.css
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\static\css\main.04a8932f.chunk.css
+Content Type: text/css
+
+Uri: https://www.bausedtruckandtrailer.com/static/js/2.4abcf0bc.chunk.js
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\static\js\2.4abcf0bc.chunk.js
+Content Type: application/javascript
+
+Uri: https://www.bausedtruckandtrailer.com/static/js/main.3356b43c.chunk.js
+File Name: C:\Downloaded Web Sites\www.bausedtruckandtrailer.com\static\js\main.3356b43c.chunk.js
+Content Type: application/javascript
+
